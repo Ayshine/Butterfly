@@ -14,9 +14,5 @@ The working environment saved as `butterfly.txt` In order to run the code with t
 conda env create --file butterfly.txt
 ~~~
 
-
-All the code is on  "Butterfly_Pytorch.ipynb" file.
-
-*Blogpost link will be shared here*
-
+will be updated tonight 
 *Happy Coding...*
