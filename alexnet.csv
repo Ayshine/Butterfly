@@ -1,0 +1,5 @@
+Epoch 1/5.. Train loss: 0.421.. Test loss: 0.480.. Test accuracy: 0.881
+Epoch 2/5.. Train loss: 0.272.. Test loss: 0.438.. Test accuracy: 0.892
+Epoch 3/5.. Train loss: 0.185.. Test loss: 0.564.. Test accuracy: 0.877
+Epoch 4/5.. Train loss: 0.148.. Test loss: 0.497.. Test accuracy: 0.892
+Epoch 5/5.. Train loss: 0.107.. Test loss: 0.539.. Test accuracy: 0.885

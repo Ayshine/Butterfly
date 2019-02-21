@@ -11,8 +11,12 @@ I recently published my Butterfly macro photos to Kaggle platform. For this repo
 The working environment saved as `butterfly.txt` In order to run the code with the same installation use the command below to create a new conda environment.
 
 ~~~
-conda env create --file butterfly.txt
+conda env create --file butterfly.yaml
 ~~~
 
-will be updated tonight 
+
+All the code is on  "Butterfly_Pytorch.ipynb" file.
+
+*Blogpost link will be shared here*
+
 *Happy Coding...*
