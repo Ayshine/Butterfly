@@ -17,6 +17,10 @@ conda env create --file butterfly.yaml
 
 All the code is on  "Butterfly_Pytorch.ipynb" file.
 
-*Blogpost link will be shared here*
+*Readme will be updated after reviewing code*
+*what is to be added?*
+*Detailed environment setup to run the project*
+*Result Comparision*
+**
 
 *Happy Coding...*
